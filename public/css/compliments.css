@@ -6,6 +6,8 @@ body {
   letter-spacing: 2px;  
   text-align: center;
   padding-top: 50px;
+  color: #FFFFFF;
+  font-weight: bold;
 }
 .a {
 	background-color:transparent;
@@ -28,4 +30,9 @@ body {
 .a:active {
 	position:relative;
 	top:1px;
+}
+.divider{
+    text-align: center;
+    display:inline-block;
+  padding-top:10px;
 }

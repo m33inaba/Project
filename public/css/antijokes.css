@@ -32,3 +32,8 @@ body {
 	position:relative;
 	top:1px;
 }
+.divider{
+    text-align: center;
+    display:inline-block;
+  padding-top:10px;
+}

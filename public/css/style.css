@@ -7,7 +7,7 @@ html, body{
 
 #compliments{
     float:left;
-    width: 33vw;
+    width: 33.33vw;
     height:50vh;
     background: #FF1F32;
     margin:0;
@@ -17,7 +17,7 @@ html, body{
 }
 #comebacks{
     float:left;
-    width: 33vw;
+    width: 33.33vw;
     height:50vh;
     background:#FD992D;
     margin:0;
@@ -27,7 +27,7 @@ html, body{
 }
 #title{
     float:left;
-    width: 33vw;
+    width: 33.33vw;
     height:50vh;
     background:#FFBD17;
     margin:0;
@@ -41,7 +41,7 @@ html, body{
 }
 #puns{
     float:left;
-    width: 33vw;
+    width: 33.33vw;
     height:50vh;
     background:#58E13F;
     margin:0;
@@ -51,7 +51,7 @@ html, body{
 }
 #pickuplines{
     float:left;
-    width: 33vw;
+    width: 33.33vw;
     height:50vh;
     background: #2D68FD;
     margin:0;
@@ -73,7 +73,7 @@ html, body{
 /* buttons */
 .btn {
   height:50vh;
-  width:33vw;
+  width:33.33vw;
   text-align:center;
   font-family: 'Quicksand', sans-serif;
 /*  text-transform: uppercase;*/
